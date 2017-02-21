@@ -8,7 +8,7 @@
 
     "plataforms": [
       {
-          "name": "My Board",
+          "name": "gmd",
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
