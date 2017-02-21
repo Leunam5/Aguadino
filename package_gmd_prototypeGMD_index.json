@@ -1,19 +1,19 @@
 {
   "packages":[
     {
-    "name": "gmd",
+    "name": "prototypeGMD",
     "maintainer": "gmd",
     "websiteURL": "",
     "email": "04arias@gmail.com",
 
     "plataforms": [
       {
-          "name": "gmd",
+          "name": "prototypeGMD",
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
           "boards": [
-            {"name": "gmd"}
+            {"name": "prototypeGMD"}
                 ]
       }
     ],
