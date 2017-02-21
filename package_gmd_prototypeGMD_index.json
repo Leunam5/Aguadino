@@ -12,6 +12,9 @@
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
+          "boards": [
+            {"name": "gmd"}
+                ]
       }
     ],
     "tools": []
