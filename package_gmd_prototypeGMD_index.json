@@ -1,24 +1,24 @@
 {
-  "packages":[
+  "packages": [
     {
-    "name": "prototypeGMD",
-    "maintainer": "gmd",
-    "websiteURL": "https://github.com/Leunam5/Aguadino",
-    "email": "04arias@gmail.com",
-
-    "plataforms": [
-      {
-          "name": "prototypeGMD",
+      "name": "myboard",
+      "maintainer": "lmcapacho",
+      "websiteURL": "https://github.com/",
+      "email": "lmcapacho@uniquindio.edu.co",
+      "platforms": [
+        {
+          "name": "My Board",
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
           "boards": [
-            {"name": "prototypeGMD"}
-                ]
-      }
-    ],
-    "tools": []
+            {"name": "My Board"}
+          ]
+        }
+      ],
+      "tools":[]
     }
   ]
+}
 
 }
