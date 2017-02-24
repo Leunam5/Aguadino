@@ -11,6 +11,10 @@
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
+          "url":"https://github.com/Leunam5/Aguadino/archive/v0.1.0.zip",
+          "archiveFileName":"Aguadino-0.1.0.zip";
+          "checksum":"SHA-256:0caa22fbc893d534407117309f9ca7dbc4877033cb058a59b8011f1cd8ab6880",
+          "size":"192999",
           "boards": [
             {"name": "Prototype"}
           ]
