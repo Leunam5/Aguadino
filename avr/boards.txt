@@ -1,0 +1,25 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+Prototype.name=Prototype_GMD
+
+Prototype.upload.tool=avrdude
+Prototype.upload.protocol=arduino
+Prototype.upload.maximum_size=32256
+Prototype.upload.maximum_data_size=2048
+Prototype.upload.speed=115200
+
+Prototype.bootloader.tool=avrdude
+Prototype.bootloader.low_fuses=0xFF
+Prototype.bootloader.high_fuses=0xDE
+Prototype.bootloader.extended_fuses=0x05
+Prototype.bootloader.unlock_bits=0x3F
+Prototype.bootloader.lock_bits=0x0F
+Prototype.bootloader.file=optiboot/optiboot_atmega328.hex
+
+Prototype.build.mcu=atmega328p
+Prototype.build.f_cpu=16000000L
+Prototype.build.board=AVR_UNO
+Prototype.build.core=arduino
+Prototype.build.variant=standard
