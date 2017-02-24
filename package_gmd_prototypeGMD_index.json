@@ -1,18 +1,18 @@
 {
   "packages": [
     {
-      "name": "myboard",
-      "maintainer": "lmcapacho",
+      "name": "Prototype",
+      "maintainer": "gmd",
       "websiteURL": "https://github.com/",
-      "email": "lmcapacho@uniquindio.edu.co",
+      "email": "maariasj@uniquindio.edu.co",
       "platforms": [
         {
-          "name": "My Board",
+          "name": "Prototype",
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
           "boards": [
-            {"name": "My Board"}
+            {"name": "Prototype"}
           ]
         }
       ],
