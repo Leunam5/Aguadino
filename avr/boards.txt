@@ -16,7 +16,7 @@ Prototype.bootloader.high_fuses=0xDE
 Prototype.bootloader.extended_fuses=0x05
 Prototype.bootloader.unlock_bits=0x3F
 Prototype.bootloader.lock_bits=0x0F
-Prototype.bootloader.file=optiboot/optiboot_atmega328.hex
+Prototype.bootloader.file=optiboot/Prototype.hex
 
 Prototype.build.mcu=atmega328p
 Prototype.build.f_cpu=16000000L
